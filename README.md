@@ -17,9 +17,14 @@ Linux, VS Code. Сейчас делаю job-agent.
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachekafka/9BB1FF" width="44" height="44"/><br><sub>Kafka</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/9BB1FF" width="44" height="44"/><br><sub>Docker</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/linux/9BB1FF" width="44" height="44"/><br><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44"/><br><sub>VS Code</sub></td>
+    <td align="center" width="96"><img src="assets/vscode.svg" width="44" height="44"/><br><sub>VS Code</sub></td>
   </tr>
 </table>
+
+<div align="center">
+  <br/>
+  <img src="assets/contributions.svg" width="100%" alt="Активность за 3 года" />
+</div>
 
 ---
 
