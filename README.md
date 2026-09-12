@@ -21,11 +21,6 @@ Linux, VS Code. Сейчас делаю job-agent.
   </tr>
 </table>
 
-<div align="center">
-  <br/>
-  <img src="assets/contributions.svg" width="100%" alt="Активность за 3 года" />
-</div>
-
 ---
 
 <table>
