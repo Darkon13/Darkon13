@@ -6,18 +6,18 @@
 
 Начинал с C# и Unity — делал игры. Потом перешёл в backend: Go и C#.
 Люблю декларативные конфиги, идемпотентность и автоматизацию.
-Linux, Neovim. Сейчас делаю job-agent.
+Linux, VS Code. Сейчас делаю job-agent.
 
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/go/9BB1FF" width="44" height="44"/><br><sub>Go</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/csharp/9BB1FF" width="44" height="44"/><br><sub>C#</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dotnet/9BB1FF" width="44" height="44"/><br><sub>C#</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/python/9BB1FF" width="44" height="44"/><br><sub>Python</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/postgresql/9BB1FF" width="44" height="44"/><br><sub>PostgreSQL</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachekafka/9BB1FF" width="44" height="44"/><br><sub>Kafka</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/9BB1FF" width="44" height="44"/><br><sub>Docker</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/linux/9BB1FF" width="44" height="44"/><br><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/neovim/9BB1FF" width="44" height="44"/><br><sub>Neovim</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44"/><br><sub>VS Code</sub></td>
   </tr>
 </table>
 
