@@ -6,7 +6,7 @@
 
 Начинал с C# и Unity — делал игры. Потом перешёл в backend: Go и C#.
 Люблю декларативные конфиги, идемпотентность и автоматизацию.
-Linux, VS Code. Сейчас делаю job-agent.
+Linux, VS Code.
 
 <table align="center">
   <tr>
