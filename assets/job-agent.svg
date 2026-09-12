@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="job-agent">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="540" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="958" height="538" rx="23" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="48" cy="48" r="8" fill="#f87171"/>
+  <circle cx="76" cy="48" r="8" fill="#fbbf24"/>
+  <circle cx="104" cy="48" r="8" fill="#34d399"/>
+
+  <text x="48" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="64" font-weight="700" fill="#e2e8f0">job-agent</text>
+  <rect x="48" y="172" width="220" height="6" rx="3" fill="url(#accent)"/>
+  <text x="48" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" fill="#94a3b8">local job search automation</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">
+    <text x="48" y="300" fill="#22d3ee">$</text>
+    <text x="80" y="300" fill="#cbd5e1">job-agent deploy ./config.json</text>
+    <text x="48" y="344" fill="#64748b">→</text>
+    <text x="80" y="344" fill="#cbd5e1">search routes, fallback, daily limits</text>
+    <text x="48" y="388" fill="#64748b">→</text>
+    <text x="80" y="388" fill="#cbd5e1">applications prepared, questionnaires captured</text>
+    <text x="48" y="432" fill="#64748b">→</text>
+    <text x="80" y="432" fill="#cbd5e1">resume raised, chats synced, dashboard ready</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">
+    <rect x="48" y="474" width="150" height="34" rx="17" fill="#1e293b" stroke="#334155"/>
+    <text x="68" y="497" fill="#94a3b8">Go</text>
+    <rect x="210" y="474" width="190" height="34" rx="17" fill="#1e293b" stroke="#334155"/>
+    <text x="230" y="497" fill="#94a3b8">SQLite</text>
+    <rect x="412" y="474" width="230" height="34" rx="17" fill="#1e293b" stroke="#334155"/>
+    <text x="432" y="497" fill="#94a3b8">Playwright</text>
+    <rect x="654" y="474" width="150" height="34" rx="17" fill="#1e293b" stroke="#334155"/>
+    <text x="674" y="497" fill="#94a3b8">declarative</text>
+  </g>
+</svg>

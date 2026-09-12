@@ -1,46 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:22d3ee&height=200&section=header&text=Darkon&fontSize=72&fontColor=ffffff&desc=Senior%20Vibecode%20Engineer&descAlignY=78&descSize=22" alt="Darkon" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=Go+%E2%80%A2+C%23+%E2%80%A2+Python;Backend+%26+automation" alt="Go, C#, Python" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Senior-Vibecode-ff69b4?style=for-the-badge" alt="Senior Vibecode" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:4f46e5&height=200&section=header&text=Darkon&fontSize=72&fontColor=e2e8f0&desc=Senior%20Vibecode%20Engineer&descAlignY=78&descSize=22" alt="Darkon" />
 </div>
 
-<br/>
+> *Vibecode with a race detector on.*
 
-Backend-инженер: Go и C#, иногда Python. Сейчас делаю
-[job-agent](https://github.com/Darkon13/job-agent) — локальный сервис
-автоматизации поиска работы: адаптеры платформ, durable-задачи,
-browser-автоматизация и dashboard с декларативным конфигом.
+Начинал с C# и Unity — делал игры. Потом перешёл в backend: Go и C#.
+Люблю декларативные конфиги, идемпотентность и автоматизацию.
+Linux, Neovim. Сейчас делаю job-agent.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/go/9BB1FF" width="44" height="44"/><br><sub>Go</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/csharp/9BB1FF" width="44" height="44"/><br><sub>C#</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/python/9BB1FF" width="44" height="44"/><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/postgresql/9BB1FF" width="44" height="44"/><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachekafka/9BB1FF" width="44" height="44"/><br><sub>Kafka</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/9BB1FF" width="44" height="44"/><br><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/linux/9BB1FF" width="44" height="44"/><br><sub>Linux</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/neovim/9BB1FF" width="44" height="44"/><br><sub>Neovim</sub></td>
+  </tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="42%">
+<a href="https://github.com/Darkon13/job-agent"><img src="assets/job-agent.svg" alt="job-agent" width="100%"></a>
+</td>
+<td width="58%">
+<strong><a href="https://github.com/Darkon13/job-agent">job-agent</a></strong> — локальный сервис автоматизации поиска работы: поиск вакансий, отклики, анкеты, чаты и dashboard. Декларативный конфиг вместо кликов, durable-задачи и browser-автоматизация там, где нет API.
+<br><br>
+<code>Go</code> <code>SQLite</code> <code>Playwright</code>
+<br><br>
+<a href="https://github.com/Darkon13/job-agent/actions/workflows/ci.yml"><img src="https://github.com/Darkon13/job-agent/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+<a href="https://github.com/Darkon13/job-agent/actions/workflows/codeql.yml"><img src="https://github.com/Darkon13/job-agent/actions/workflows/codeql.yml/badge.svg" alt="CodeQL" /></a>
+<a href="https://github.com/Darkon13/job-agent/releases"><img src="https://img.shields.io/github/v/release/Darkon13/job-agent?style=flat-square" alt="Release" /></a>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <br/><br/>
-  <a href="https://github.com/Darkon13/job-agent/actions/workflows/ci.yml"><img src="https://github.com/Darkon13/job-agent/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <a href="https://github.com/Darkon13/job-agent/actions/workflows/codeql.yml"><img src="https://github.com/Darkon13/job-agent/actions/workflows/codeql.yml/badge.svg" alt="CodeQL" /></a>
-  <a href="https://github.com/Darkon13/job-agent/actions/workflows/release.yml"><img src="https://github.com/Darkon13/job-agent/actions/workflows/release.yml/badge.svg" alt="Release" /></a>
-  <img src="https://img.shields.io/github/license/Darkon13/job-agent?style=flat-square" alt="License" />
-</div>
-
-<br/>
-
-Раньше делал игры на C# ([Match3](https://github.com/Darkon13/Match3),
-[Space-War](https://github.com/Darkon13/Space-War),
-[Flappy](https://github.com/Darkon13/Flappy)) — с них начинался путь в
-разработку; сейчас это история, а фокус на backend.
-
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:4f46e5&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:1e293b&height=120&section=footer" alt="footer" />
 </div>
