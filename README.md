@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:4f46e5&height=200&section=header&text=Darkon&fontSize=72&fontColor=e2e8f0&desc=Senior%20%D1%80%D0%B0%D1%81%D0%BA%D1%83%D1%80%D0%BA%D0%B0%20enjoyer&descAlignY=78&descSize=22" alt="Darkon" />
 </div>
 
-> *Фул раскурка по базе*
-
 Начинал с C# и Unity — делал игры. Потом перешёл в backend: Go и C#.
 Люблю декларативные конфиги, идемпотентность и автоматизацию.
 Linux, VS Code.
